@@ -1,2 +1,3 @@
-# Refreshing-Trigger
-Analysis Tool for OpenSea
+# OpenSea Analysis/ Buying Bot
+
+Simple 
